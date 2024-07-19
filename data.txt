@@ -1,0 +1,254 @@
+53:201
+Peru:-10.51602067874422:-75.54973833922863
+Argentina:-34.62992603781776:-65.85159172404963
+Chile:-26.802128022565597:-70.71712427326355
+Brazil:-7.833409450284335:-56.39221015402433
+Norway:61.61285751413713:9.301932051774862
+Sweden:64.57420236897424:16.91787622422318
+North Sweden:8.404312921101678:32.0408802634587
+Spain:39.564937110430066:-3.0014083554914928
+Portugal:39.65369433229986:-8.767538745795122
+Egypt:26.65832892926017:29.791223934273443
+USA:39.94400297447158:-99.74848019129375
+Russia:62.5156275437797:92.96150614787261
+Iraq:33.084923954772904:42.934371089972885
+Algeria:28.071329408686463:2.1631285657479906
+China:35.06312309028558:102.8980057399565
+Iran:32.08549851458258:54.258814806794184
+Ukraine:49.003691778292996:31.337897345112804
+Turkey:39.001436189345334:35.56019743456814
+Finland:62.08645544753247:26.460181134115263
+Indonesia:-4.337974871005969:121.93055225219959
+Malaysia:3.755265591402299:101.85695829737278
+Ethiopia:8.861025335639155:39.50537516887898
+Libya:26.90316312901154:17.39099324693043
+South_Korea:36.4901943149473:127.70004797612307
+Japan:37.015116095758046:138.58985069935744
+Mongolia:46.753994128556045:103.05473710522885
+Italy:42.99801342093092:12.079921835285777
+UK:55.10796585105442:-2.7668063935941536
+Green_Land:66.29769098551492:-46.10776053878598
+India:23.192133381995617:80.32989958696272
+Kazakhstan:48.24279848921162:67.79327793954229
+Saudi_Arabia:23.634228855814285:45.44673964936339
+Pakistan:30.125540024993924: 69.0494124473398
+Niger:17.46219460298736:9.216352519377004
+Sudan:16.41547853425355:30.18205452662457
+Mali:17.788257508917084:-1.8012479227406835
+Mauritania:20.42506866527749:-10.365138335501841
+Palestine:31.769158121457508:35.22068020617379
+Jordan:31.300644889231375:36.795302600219095
+Yemen:15.903542097524346:47.62190124653392
+Oman:20.668775208072233:56.14452782431262
+Canada:57.70229070007992:-101.80221873516481
+France:46.51600125368959:2.2730650564229933
+Morroco:31.60032937351167:-6.515996951913963
+Syrian Arab Republic:34.834806201676265:38.13243805043771
+Tunisia:34.068144192908335:9.92306238210101
+Somalia:2.7982229415926887:44.82701176775603
+Asturalia:-25.159442990175073:134.25447073657324
+Iceland:65.02963502268696:-18.54626523448756
+South Africa:-30.594259122777224:24.18624211242921
+Madaghashqar:-20.980895548102055:46.162390749439716
+AlKhalil:40:40
+AlKhalil:Russia
+Peru:France
+Argentina:Libya
+Chile:Canada
+Brazil:China
+Norway:India
+Sweden:Yemen
+North Sweden:Argentina
+Spain:Mauritania
+Portugal:Morroco
+Egypt:Iran
+USA:Iran
+Russia:South Africa
+Iraq:Turkey
+Algeria:Egypt
+China:India
+Iran:Finland
+Ukraine:Finland
+Turkey:Jordan
+Finland:Libya
+Indonesia:France
+Malaysia:Sudan
+Ethiopia:Niger
+Libya:Mauritania
+South_Korea:Norway
+Japan:Madaghashqar
+Mongolia:Madaghashqar
+Italy:China
+UK:Mali
+Green_Land:Jordan
+India:North Sweden
+Kazakhstan:Ukraine
+Saudi_Arabia:Algeria
+Pakistan:South_Korea
+Niger:Yemen
+Sudan:Canada
+Mali:Iceland
+Mauritania:Iceland
+Palestine:USA
+Jordan:Indonesia
+Yemen:Mali
+Oman:Pakistan
+Canada:North Sweden
+France:Chile
+Morroco:Pakistan
+Syrian Arab Republic:Brazil
+Tunisia:Canada
+Somalia:Ethiopia
+Asturalia:Italy
+Iceland:Malaysia
+South Africa:Morroco
+Madaghashqar:Green_Land
+Peru:India
+Argentina:Canada
+Chile:Sudan
+Brazil:Egypt
+Norway:Kazakhstan
+Sweden:Niger
+North Sweden:Somalia
+Spain:Somalia
+Portugal:Morroco
+Egypt:Iran
+USA:South Africa
+Russia:Argentina
+Iraq:Asturalia
+Algeria:China
+China:Iraq
+Iran:France
+Ukraine:Somalia
+Turkey:Brazil
+Finland:Japan
+Indonesia:Portugal
+Malaysia:Spain
+Ethiopia:Turkey
+Libya:Asturalia
+South_Korea:France
+Japan:Argentina
+Mongolia:Iraq
+Italy:Spain
+UK:Spain
+Green_Land:Spain
+India:Brazil
+Kazakhstan:Indonesia
+Saudi_Arabia:Green_Land
+Pakistan:Turkey
+Niger:Canada
+Sudan:Peru
+Mali:Sweden
+Mauritania:Indonesia
+Palestine:Spain
+Jordan:Norway
+Yemen:Kazakhstan
+Oman:India
+Canada:Iceland
+France:Spain
+Morroco:Italy
+Syrian Arab Republic:Ethiopia
+Tunisia:Mongolia
+Somalia:Tunisia
+Asturalia:Jordan
+Iceland:Syrian Arab Republic
+South Africa:Brazil
+Madaghashqar:UK
+Peru:Yemen
+Argentina:Finland
+Chile:China
+Brazil:Niger
+Norway:Chile
+Sweden:North Sweden
+North Sweden:Green_Land
+Spain:Iran
+Portugal:India
+Egypt:Somalia
+USA:Spain
+Russia:USA
+Iraq:Kazakhstan
+Algeria:Mauritania
+China:Asturalia
+Iran:Norway
+Ukraine:Saudi_Arabia
+Turkey:Iceland
+Finland:Sweden
+Indonesia:Kazakhstan
+Malaysia:Peru
+Ethiopia:China
+Libya:Somalia
+South_Korea:Yemen
+Japan:Mauritania
+Mongolia:India
+Italy:Russia
+UK:Peru
+Green_Land:Mauritania
+India:Mongolia
+Kazakhstan:South Africa
+Saudi_Arabia:Sweden
+Pakistan:Tunisia
+Niger:Palestine
+Sudan:Iraq
+Mali:India
+Mauritania:Peru
+Palestine:Malaysia
+Jordan:Egypt
+Yemen:South_Korea
+Oman:UK
+Canada:Algeria
+France:Portugal
+Morroco:Syrian Arab Republic
+Syrian Arab Republic:Chile
+Tunisia:Oman
+Somalia:Saudi_Arabia
+Asturalia:Egypt
+Iceland:USA
+South Africa:Sweden
+Madaghashqar:Malaysia
+Peru:UK
+Argentina:Ukraine
+Chile:Madaghashqar
+Brazil:North Sweden
+Norway:Brazil
+Sweden:Ukraine
+North Sweden:Peru
+Spain:Mongolia
+Portugal:Norway
+Egypt:Niger
+USA:USA
+Russia:Somalia
+Iraq:Turkey
+Algeria:Finland
+China:Spain
+Iran:Libya
+Ukraine:Syrian Arab Republic
+Turkey:Somalia
+Finland:Morroco
+Indonesia:Portugal
+Malaysia:South_Korea
+Ethiopia:Kazakhstan
+Libya:Jordan
+South_Korea:Saudi_Arabia
+Japan:Sudan
+Mongolia:South Africa
+Italy:UK
+UK:Sudan
+Green_Land:Finland
+India:Malaysia
+Kazakhstan:South Africa
+Saudi_Arabia:Canada
+Pakistan:Italy
+Niger:Iceland
+Sudan:Spain
+Mali:North Sweden
+Mauritania:Sweden
+Palestine:Mali
+Jordan:China
+Yemen:Libya
+Oman:China
+Canada:Jordan
+France:India
+Morroco:Chile
+Syrian Arab Republic:Oman
+Tunisia:Green_Land
+Somalia:Syrian Arab Republic
