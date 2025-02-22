@@ -1,3 +1,5 @@
+### Word map project
+
 1. Click the load button to read the data file
 2. You can select the source and target locations either by clicking on the points on the map or by choosing from the combo box
 3. If there is a path from the source to the target country it will be drawn on the map
