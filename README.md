@@ -1,6 +1,6 @@
 ### Word map project
 
-This project that allows users to find and visualize paths between countries on a map
+This project enables users to find and visualize the shortest route between countries on a world map
 
 #### Steps:
 - Click the load button to read the data file
