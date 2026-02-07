@@ -1,5 +1,4 @@
 ### Word map project
-
 This project enables users to find and visualize the shortest route between countries on a world map
 
 #### Steps:
